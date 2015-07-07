@@ -16,6 +16,12 @@
 # private docker registry 구성
 * http://pyrasis.com/book/DockerForTheReallyImpatient/Chapter06
 
+# AWS + Docker in Vingle
+* http://www.slideshare.net/flrngel/vingle-aws-docker-deploy
+
+# kubernetes 101
+* http://www.slideshare.net/ext/devfair-kubernetes-101
+
 # Docker + Kubernetes를 이용한 빌드 서버 가상화 사례
 * http://www.slideshare.net/naver-labs/docker-kubernetes
 
