@@ -22,6 +22,13 @@
 # kubernetes 101
 * http://www.slideshare.net/ext/devfair-kubernetes-101
 
+# 범용 Paas 플랫폼 mesos(mesosphere)
+*http://www.slideshare.net/songaal/paa-s-mesosmesosphere
+
+# Docker 활용법: dumpdocker
+http://www.slideshare.net/kingcrab/do-39544155 
+
+
 # Docker + Kubernetes를 이용한 빌드 서버 가상화 사례
 * http://www.slideshare.net/naver-labs/docker-kubernetes
 
