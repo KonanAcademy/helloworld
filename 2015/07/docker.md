@@ -16,6 +16,8 @@
 # private docker registry 구성
 * http://pyrasis.com/book/DockerForTheReallyImpatient/Chapter06
 
+# Docker + Kubernetes를 이용한 빌드 서버 가상화 사례
+* http://www.slideshare.net/naver-labs/docker-kubernetes
 
 # vagrant란?
 * http://www.slideshare.net/kthcorp/h3-2012-vagrant
