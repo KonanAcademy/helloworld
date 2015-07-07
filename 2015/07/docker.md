@@ -22,6 +22,12 @@
 # kubernetes 101
 * http://www.slideshare.net/ext/devfair-kubernetes-101
 
+# 도커(Docker) 메트릭스 & 로그 수집
+* http://www.slideshare.net/ext/docker-37592250
+
+# Apache Mesos – Cluster Resource Management
+* http://www.yongbok.net/blog/apache-mesos-cluster-resource-management/
+
 # 범용 Paas 플랫폼 mesos(mesosphere)
 *http://www.slideshare.net/songaal/paa-s-mesosmesosphere
 
